@@ -1,2 +1,3 @@
 # hibiscus
-HIBiscus FEKO model
+HIBiscus antenna model:
+HIBiscus/HIBiscus.cfx 
